@@ -1,0 +1,6 @@
+---
+layout: post
+title: "test"
+---
+## 我是小段落
+測試文章
